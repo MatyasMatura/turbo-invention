@@ -1,0 +1,15 @@
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper2.deps.json
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper2.dll
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\bin\Debug\netstandard2.0\DisplayHelper2.pdb
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper2.AssemblyInfoInputs.cache
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper2.AssemblyInfo.cs
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper2.dll
+D:\PRG\CSharpBasics\CSharpBasics\DisplayHelper\obj\Debug\netstandard2.0\DisplayHelper2.pdb
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\bin\Debug\netstandard2.0\DisplayHelper2.deps.json
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\bin\Debug\netstandard2.0\DisplayHelper2.dll
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\bin\Debug\netstandard2.0\DisplayHelper2.pdb
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\obj\Debug\netstandard2.0\DisplayHelper2.csprojAssemblyReference.cache
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\obj\Debug\netstandard2.0\DisplayHelper2.AssemblyInfoInputs.cache
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\obj\Debug\netstandard2.0\DisplayHelper2.AssemblyInfo.cs
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\obj\Debug\netstandard2.0\DisplayHelper2.dll
+C:\Users\Matyáš\source\repos\TomasKazda\2019P2CSharpBasics\DisplayHelper2\obj\Debug\netstandard2.0\DisplayHelper2.pdb

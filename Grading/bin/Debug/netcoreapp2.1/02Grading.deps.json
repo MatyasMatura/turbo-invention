@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "02Grading/1.0.0": {
+        "dependencies": {
+          "DisplayHelper2": "1.0.0"
+        },
+        "runtime": {
+          "02Grading.dll": {}
+        }
+      },
+      "DisplayHelper2/1.0.0": {
+        "runtime": {
+          "DisplayHelper2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02Grading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DisplayHelper2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
